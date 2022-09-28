@@ -4,9 +4,12 @@ I am Sharon Ibejih and I'm happy you've found yourself here.
 
 I am into AI and have done pretty much with [Research](https://scholar.google.com/citations?user=6sZXvpAAAAAJ&hl=en). I am expanding my knowledge in software engineering and machine learning operations. 
 
-Some of my repositories contain a documentation of my learning and some notes, while others are interesting projects I have worked on.
+My repositories contain interesting projects I have worked on and some documentations of my learnings and notes.
 
-You can reach me via email: sharonibejih@gmail.com
+- 🌱 Skills: Python | SQL | Data Analysis | Feature Engineering | Machine Learning | Deep Learning
+- 💬 Ask me about: NLP Research | Model Building | Model Deployment | Speech Technologies 
+
+You can reach me via email: sharonibejih@gmail.com. I'll be happy to chat.
 
 
 
