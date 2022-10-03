@@ -6,7 +6,7 @@ I am into AI and have done pretty much with [Research](https://scholar.google.co
 
 My repositories contain interesting projects I have worked on and some documentations of my learnings and notes.
 
-- 🌱 Skills: Python | SQL | Data Analysis | Feature Engineering | Machine Learning | Deep Learning
+- 🌱 Skills: Python | SQL | Data Analysis | Feature Engineering | Machine Learning | Deep Learning | Software Engineering | Cloud
 - 💬 Ask me about: NLP Research | Model Building | Model Deployment | Speech Technologies 
 
 You can reach me via email: sharonibejih@gmail.com. I'll be happy to chat.
